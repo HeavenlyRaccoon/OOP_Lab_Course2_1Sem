@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <countButton>2</countButton>
+  <menuWidth>480</menuWidth>
+  <menuHeight>360</menuHeight>
+  <button>
+    <visible>true</visible>
+    <buttonWidth>480</buttonWidth>
+    <buttonHeight>180</buttonHeight>
+    <backColor>green</backColor>
+    <text>XML</text>
+    <textColor>white</textColor>
+    <ButtonWidth>480</ButtonWidth>
+    <ButtonHeight>180</ButtonHeight>
+    <BackColor>green</BackColor>
+    <Text>XML</Text>
+    <TextColor>white</TextColor>
+  </button>
+  <CountButton>2</CountButton>
+  <MenuWidth>480</MenuWidth>
+  <MenuHeight>360</MenuHeight>
+  <Button>
+    <visible>true</visible>
+    <buttonWidth>480</buttonWidth>
+    <buttonHeight>180</buttonHeight>
+    <backColor>green</backColor>
+    <text>XML</text>
+    <textColor>white</textColor>
+    <ButtonWidth>480</ButtonWidth>
+    <ButtonHeight>180</ButtonHeight>
+    <BackColor>green</BackColor>
+    <Text>XML</Text>
+    <TextColor>white</TextColor>
+  </Button>
+</Menu>
